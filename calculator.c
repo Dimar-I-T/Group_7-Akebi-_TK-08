@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 float Jumlah(float a, float b){
-    return a + b;
+    return b + a;
 }
 
 float Kurang(float a, float b){
