@@ -5,6 +5,8 @@ float Penjumlahan(float a, float b){
 }
 
 float Kurang(float a, float b){
+    return b - a;
+    
 }
 
 float Kali(float a, float b){
