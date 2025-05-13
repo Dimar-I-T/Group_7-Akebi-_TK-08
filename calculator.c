@@ -11,7 +11,7 @@ float Kali(float a, float b){
 }
 
 float Bagi(float a, float b){
-    return a / b;
+    return a / 
 }
 
 int main(){
