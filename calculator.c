@@ -12,7 +12,7 @@ float Kurang(float a, float b){
 float Kali(float a, float b){
 }
 
-float Bagi(float a, float b){
+float Bagi(float a, float b){ // fungsi pembagian
     return a / b;
 }
 
