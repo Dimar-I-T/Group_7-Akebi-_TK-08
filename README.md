@@ -7,4 +7,3 @@
 ---
 - Deskripsi
 Ini adalah proyek tugas tk-08 dari kelas pemrogramman dasar untuk mengimplementasikan materi git dan github. Proyek ini berisi file calculator.c yang dapat menginput dua angka dan mengoutputkan hasil operasi matematika yang diinput dari user. Operasi matematika tersebut terdiri dari: penjumlahan, pengurangan, perkalian, dan pembagian.
-
