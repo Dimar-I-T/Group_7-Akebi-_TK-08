@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-float Jumlah(float a, float b){
+float Penjumlahan(float a, float b){
     return b + a;
 }
 
@@ -28,7 +28,7 @@ int main(){
         getchar();
         switch (operator){
             case '+':
-                hasil = Jumlah(a, b);
+                hasil = Penjumlahan(a, b);
                 break;
             case '-':
                 hasil = Kurang(a, b);
