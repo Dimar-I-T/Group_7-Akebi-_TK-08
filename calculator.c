@@ -14,7 +14,7 @@ float Kali(float a, float b){
 
 float Bagi(float a, float b){ // fungsi pembagian
     if(b == 0){
-        printf("pembagi tidak boeh 0!\n");
+        printf("pembagi tidak boleh 0!\n");
     }
     else{
         return a / b;
